@@ -1,6 +1,7 @@
 ---
-title: Hello Blog
-tags: TeXt
+layout: article
+title: Hello, Blog!
+tags: 日常生活
 ---
 
 > I don't wanna tell you what to do, but I know it works, so I say it as plainly as I can: Just write, keep on writing.
